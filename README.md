@@ -1,2 +1,2 @@
-# marsrover
+# Mars Rover
 Recruitment project
