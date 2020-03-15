@@ -6,6 +6,7 @@ namespace MarsRover
 {
     class Program
     {
+        // Girilen veri ve kurallara göre yeni veriler hesaplanır
         public static JObject Calculate(string currentDirection, JObject oldLocation, string roverMoovments)
         {
             var currentXCoordinate = (int)oldLocation["x"];
@@ -98,7 +99,7 @@ namespace MarsRover
             return returnObj;
         }
 
-        public static JArray Request(JArray calculateDatas)
+        public static JArray Request(JArray calculateDatas) // Ekrandan aldığımız verileri topladıktan ve yeni veri girişi olmayacağından emin olduktan sonra Calculate fonksiyonu çağırılır
         {
             var returnArrayData = new JArray();
             foreach (var item in calculateDatas)
@@ -109,7 +110,7 @@ namespace MarsRover
             return returnArrayData;
         }
 
-        public static JArray ConsoleProcess(JArray arrayData)
+        public static JArray ConsoleProcess(JArray arrayData) // Recursive olarak ekrandan veri almayı sağlıyoruz.
         {
             var roverLocation = Console.ReadLine();
             if (string.IsNullOrEmpty(roverLocation))
