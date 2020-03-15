@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Marsrover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.deps.json
+C:\Users\HP\source\repos\Marsrover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.json
+C:\Users\HP\source\repos\Marsrover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Marsrover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\HP\source\repos\Marsrover\MarsRover\bin\Debug\netcoreapp2.2\MarsRover.pdb
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.AssemblyInfo.cs
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.dll
+C:\Users\HP\source\repos\Marsrover\MarsRover\obj\Debug\netcoreapp2.2\MarsRover.pdb
